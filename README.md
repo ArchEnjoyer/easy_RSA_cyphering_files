@@ -10,4 +10,4 @@ windows:
 Usage: program will interact with you via CLI
 
 
-This implementation is not secure, read this: https://habr.com/ru/companies/virgilsecurity/articles/459370/
+This implementation is not secure, read this: https://blog.trailofbits.com/2019/07/08/fuck-rsa/ (en) https://habr.com/ru/companies/virgilsecurity/articles/459370/ (ru)
