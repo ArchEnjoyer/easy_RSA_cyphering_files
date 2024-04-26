@@ -8,3 +8,6 @@ windows:
 `pip install pycryptodome` or `python3 -m pip install pycryptodome`
 
 Usage: program will interact with you via CLI
+
+
+This implementation is not secure, read this: https://habr.com/ru/companies/virgilsecurity/articles/459370/
